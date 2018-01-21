@@ -1,8 +1,8 @@
-- name: Pricing
+- name: Activities
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
+- name: Updates
   link: /blog/
   new_window: false
   highlight: false
