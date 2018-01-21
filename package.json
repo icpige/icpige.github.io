@@ -1,0 +1,8 @@
+{
+  "name": "unused-jekyll-asset-checker",
+  "version": "1.0.0",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-unused": "^0.2.3"
+  }
+}

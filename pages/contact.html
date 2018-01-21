@@ -1,0 +1,35 @@
+---
+layout: page
+title: Contact
+icons: true
+permalink: /contact/
+---
+
+<div class="contact">
+	<div class="wrapper">
+		<div class="contact-content">
+			<h2>Let's talk</h2>
+			<p>Have questions about CloudCannon Jekyll or anything else? Send us a message and we'll get back to you.</p>
+			<p><a href="mailto:support@cloudcannon.com">support@cloudcannon.com</a></p>
+		</div>
+		<form action="/contact-success/" method="post" class="contact-form">
+			<input type="hidden" name="_to" value="support@cloudcannon.com">
+
+			<div class="text-field">
+				<label class="form-icon">
+					<i class="material-icons">person</i>
+					<input type="text" name="name" id="name" placeholder="Name">
+				</label>
+
+				<label class="form-icon">
+					<i class="material-icons">email</i>
+					<input type="email" name="email" id="email" placeholder="Email Address" required>
+				</label>
+			</div>
+
+			<textarea name="message" id="message" placeholder="Your Message"></textarea>
+
+			<input type="submit" value="Send Message">
+		</form>
+	</div>
+</div>

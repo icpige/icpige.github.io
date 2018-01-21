@@ -1,0 +1,80 @@
+---
+title: Features
+heading: What CloudCannon offers
+subtitle: Empower your editors with CloudCannon and Jekyll
+layout: short
+permalink: /features/
+---
+<ul class="workflow-diagram">
+	<li>
+		<i class="material-icons">loop</i>
+		<p>Connect your site repository to CloudCannon</p>
+	</li>
+	<li>
+		<i class="material-icons">edit</i>
+		<p>Editors update content on CloudCannon</p>
+	</li>
+	<li>
+		<i class="material-icons">cloud</i>
+		<p>Your site publishes live to CloudCannon hosting</p>
+	</li>
+</ul>
+
+<div class="feature-content">
+	<h2>Editing</h2>
+
+	<ul class="cards">
+		{% include components/features/data-block.html icon="photo" video="vwDsNe67Z0s" title="Visual editing" content="Update content directly on the page. There's not guessing how changes appear on the live site. Add a class of `editable` to the elements you want to be updatable." %}
+
+		{% include components/features/data-block.html icon="code" video="FyZh-Ld55UU" title="Source editing" content="Sometimes you need to edit source code to update config or tweak some CSS. CloudCannon has a build in code editor to help you in a pinch." %}
+
+		{% include components/features/data-block.html icon="format_align_left" video="pzzMMms1eSU" title="Content editing" content="As an alternate to the visual editor CloudCannon also has a Content Editor which helps you focus on the content without the distractions of your site." %}
+
+		{% include components/features/data-block.html icon="link" video="pxMAYVMYBrU" title="Editor links" content="For complex content that orginates from front matter, collections or data files, you can add your own links to the visual editor for an intuitive editing experience." %}
+
+		{% include components/features/data-block.html icon="format_paint" video="rbJoUhSPUHA" title="Front matter editing" content="Build intutive interfaces for your editors using front matter data types. CloudCannon as UIs for images, HTML content, colours, arrays, dates and more." %}
+
+		{% include components/features/data-block.html icon="edit" video="j-nWzBt_Wkg" title="Blogging, collections and data files" content="Editors can add posts, collection documents and data files without understanding the inner workings of Jekyll." %}
+	</ul>
+
+	<h2>Workflow</h2>
+
+	<ul class="cards">
+		{% include components/features/data-block.html icon="sync" title="Git sync" content="Pull in your Jekyll site from GitHub or Bitbucket. CloudCannon will pull in any future changes and commit back any changes made on CloudCannon." %}
+
+		{% include components/features/data-block.html icon="repeat" title="Continuous deployment" content="CloudCannon builds your site after every time your site changes. No need to set up your own CI service or build scripts." %}
+
+		{% include components/features/data-block.html icon="toys" title="Multiple enviornments" content="Set up Git branches for different stages of your site. Have editors merge branches in the CloudCannon UI." %}
+
+		{% include components/features/data-block.html icon="business" title="Organisations" content="Give control to other members of your team to create sites, manage billing and update content across all your sites." %}
+
+		{% include components/features/data-block.html icon="people" title="Collaboration" content="Invite your team and clients to update your Jekyll site." %}
+
+		{% include components/features/data-block.html icon="build" title="Jekyll plugins" content="CloudCannon supports all third party Jekyll plugins and installs them straight from your Gemfile." %}
+
+		{% include components/features/data-block.html icon="accessibility" title="Client sharing" content="Give update access to your clients without them having to sign up for a CloudCannon account or knowing you use CloudCannon at all." %}
+
+		{% include components/features/data-block.html icon="account_box" title="SAML" content="Control account access through your SAML provider." %}
+	</ul>
+
+	<h2>Hosting</h2>
+
+	<ul class="cards">
+		{% include components/features/data-block.html icon="star" title="Automatic minification" content="CloudCannon automatically minifies CSS and JavaScript files to boost the performance of your site." %}
+
+		{% include components/features/data-block.html icon="language" title="CDN" content="Assets are served by our global CDN to ensure your site is performant around the world." %}
+
+		{% include components/features/data-block.html icon="call_made" title="Redirects" content="Redirect old addresses to make sure visitors and search engines can always find the content they're looking for." %}
+
+		{% include components/features/data-block.html icon="security" title="Password protection" content="Add a password to a section of or your entire site to keep it private from public viewing." %}
+
+		{% include components/features/data-block.html icon="fingerprint" title="Asset fingerprinting" content="CloudCannon rewrites asset paths if the content has changed to ensure visitors are always getting the most recent version." %}
+
+		{% include components/features/data-block.html icon="lock_outline" title="SSL (private beta)" content="Give your visitors the comfort in knowing your site in secured with SSL." %}
+
+		{% include components/features/data-block.html icon="dns" title="DNS" content="Have CloudCannon automatically set up your DNS. Manage records straight in the app." %}
+
+		{% include components/features/data-block.html icon="import_contacts" title="Staging domain" content="CloudCannon gives all site their own .cloudvent.net domain so you can have a live version of your site without having to set up your own domain." %}
+	</ul>
+</div>
+<script src="/js/features.js"></script>

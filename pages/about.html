@@ -1,0 +1,57 @@
+---
+layout: info-page
+title: About
+permalink: /about/
+icons: true
+static_manifesto:
+  - title: Simplicity
+    icon: child_care
+    content_markdown: Static sites are just HTML, CSS and JavaScript files. This means they're faster to build, require less technical knowledge, need less upkeep and are future proofed.
+  - title: Scalability
+    icon: trending_up
+    content_markdown: A single webserver can handle [a lot](http://www.speedemy.com/apache-vs-nginx-2015/) of traffic if it's only serving static content.
+  - title: Speed
+    content_markdown: With static there's no database queries or page to generate on-the-fly. All the web server needs to do is return a static file.
+    icon: flight_takeoff
+  - title: Security
+    content_markdown: A static site is as secure as the web server its running on which makes them significantly less vunerable to hackers.
+    icon: lock
+  - title: Stability
+    content_markdown: There's fewer points of failure with static sites so it's likely your uptime will be much higher.
+    icon: all_inclusive
+  - title: Source controlled
+    content_markdown: The entire site and content can live in a source control system such as Git. This gives you many advantages such as backups, approval processes and collaboration tools.
+    icon: star
+---
+
+<div class="about">
+	<h1>CloudCannon is a new kind of CMS for the static site generator, Jekyll.</h1>
+
+	<h2>What drives us</h2>
+	<p>Our mission is to bring all the advantages of static technology to developers while giving editors intuitive interfaces and workflows to update content. We believe most informational websites should be static. The reason they’re not is non-technical editors need to update content.</p>
+
+	<h2>Why static?</h2>
+	<ul class="cards feature-content">
+		{% for item in page.static_manifesto %}
+			<li class="card">
+				<h3><i class="material-icons">{{ item.icon }}</i> {{ item.title }}</h3>
+				{{ item.content_markdown | markdownify }}
+			</li>
+		{% endfor %}
+	</ul>
+
+	<h2>Our team</h2>
+	<p>Founded in Dunedin, New Zealand and now serving customers from all over the world. Our team is passionate about doing our part in making static site generators mainstream.</p>
+
+	<ul class="mugs">
+		{% for person_obj in site.data.authors %}
+			{% assign person = person_obj[1] %}
+			{% if person.position %}
+				<li>
+					<div class="image"><img src="{{ person.image }}" alt="{{ person.name }}"></div>
+					<p>{{ person.name }}</p>
+				</li>
+			{% endif %}
+		{% endfor %}
+	</ul>
+</div>

@@ -1,0 +1,28 @@
+---
+layout: info-page
+title: Careers
+permalink: /careers/
+roles:
+  - position: Technical Support Engineer
+    description: If you love helping people with their Jekyll sites this is the role for you. You will be supporting customers over email and live chat with Jekyll and CloudCannon issues. Strong front end web and Jekyll experience is a must.
+  - position: System Administrator
+    description: Our ideal candidate breathes AWS and Docker, cares deeply about keeping systems online and enjoys working on new infrastructure projects.
+
+---
+
+<div class="careers">
+	<h1>Help us change the way websites are made.</h1>
+
+	<p>We're a small, friendly, remote team who value lifestyle and self direction. We're passionate about evangelising static websites and working with others who do the same. If you think you'd be a good fit for a role listed below, reach out to <a href="mailto:support@cloudcannon.com">support@cloudcannon.com</a> with your resume and a cover letter explaining why you love static technology, why you would like to work at CloudCannon and a list of relevant work experience.</p>
+
+	<h2>Open positions</h2>
+
+	<ul class="roles">
+		{% for role in page.roles %}
+			<li>
+				<p><strong>{{ role.position }}</strong> - {{ role.description }}</p>
+			</li>
+		{% endfor %}
+	</ul>
+
+</div>

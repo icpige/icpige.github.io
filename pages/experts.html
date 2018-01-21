@@ -1,0 +1,16 @@
+---
+layout: info-page
+title: Experts
+permalink: /experts/
+---
+
+<h1>Experts</h1>
+
+<p>Recommended developers to get your Jekyll website live on CloudCannon</p>
+
+<ul class="experts">
+	{% assign experts = site.data.experts | sort: 'name' %}
+	{% for expert in experts %}
+		<li><a href="{{ expert.link }}">{{ expert.name }}</a> - {{ expert.location }}</li>
+	{% endfor %}
+</ul>
