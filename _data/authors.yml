@@ -1,0 +1,37 @@
+george:
+  name: George Phillips
+  image: /images/team/george.jpg
+  position: CTO/Co-founder
+  twitter: gphillips_nz
+  email_address: george@cloudcannon.com
+  bio: "is the CTO of CloudCannon. He is a passionate, self-taught designer with a BSc in Computer Science. He blogs about HTML/CSS, JavaScript and anything even remotely connected with Web Design."
+
+mike:
+  name: Mike Neumegen
+  image: /images/team/mike.jpg
+  position: CEO/Co-founder
+  twitter: mikeneumegen
+  email_address: mike@cloudcannon.com
+  bio: "is the CEO of CloudCannon. He loves all things web design, tech, photography and music."
+
+ross:
+  name: Ross Phillips
+  image: /images/team/ross.jpg
+  position: Application Engineer
+  twitter: rphillips_nz
+  email_address: ross@cloudcannon.com
+  bio: "is an Application Engineer at CloudCannon. He creates and maintains features for the platform. His main interests are technology, snowboarding, nature and travel."
+
+tim:
+  image: /images/authors/tim.jpg
+  twitter: n00begon
+  author: tim
+  name: Tim Neumegen
+  bio: "is fascinated by technology and history."
+
+sam:
+  image: /images/authors/sam.jpg
+  twitter: sambonney
+  author: sam
+  name: Sam Bonney
+  bio: "loves noodles, cravats, and the great outdoors. Sometimes all at the same time."

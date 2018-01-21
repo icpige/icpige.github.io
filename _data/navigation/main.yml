@@ -1,0 +1,10 @@
+- link: /features/
+  name: Features
+- link: /pricing/
+  name: Pricing
+- link: /blog/
+  name: Blog
+- link: https://learn.cloudcannon.com/
+  name: Guides
+- link: https://docs.cloudcannon.com/
+  name: Docs
