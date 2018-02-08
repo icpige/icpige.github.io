@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Weclome!
-date: {}
-images: null
-excerpt: null
-categories: null
+date: 
+images: 
+excerpt: 
+categories: 
 published: true
 ---
 
