@@ -2,7 +2,8 @@
 layout: post
 title: Welcome
 date: 2018-01-01 00:00:00
-images:
+images: >-
+  https:/www.icpi.ge/uploads/versions/19679105-1362118153844061-4269301735498166812-o---x----1500-1000x---.jpg
 excerpt:
 categories:
 ---
