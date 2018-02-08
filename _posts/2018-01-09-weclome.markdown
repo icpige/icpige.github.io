@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Weclome!
-date: 2018-01-09 08:19:00
-categories:
+date: {}
+categories: null
+published: true
 ---
 
 
-![](https:/www.icpi.ge/uploads/versions/19679105-1362118153844061-4269301735498166812-o-1---x----1500-1000x---.jpg)
-
+![]({{site.baseurl}}/uploads/versions/19679105-1362118153844061-4269301735498166812-o-1---x----1500-1000x---.jpg)
 New Year! New Beginnings! New Site!
