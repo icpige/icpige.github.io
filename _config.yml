@@ -22,3 +22,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-admin
+  
+jekyll_admin:
+
