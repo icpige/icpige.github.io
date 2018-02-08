@@ -2,8 +2,11 @@
 layout: post
 title: YE - “The Right to be Right”
 date: 2018-01-09 08:19:00
+images:
+excerpt:
 categories:
 ---
+
 
 
 ![](/uploads/versions/26230509-1529041550485053-7372078925288436861-n---x----960-720x---.jpg)
