@@ -14,6 +14,12 @@
       path: LivesScreens.html
     - name: YOUTH EMPOWERMENT
       path: youthempowerment.html
+- name: Generator 9.8
+  path: generator-9-8.html
+  section_id: generator
+- name: Voluteering
+  path: volunteering.html
+  section_id: volunteering  
 - name: Contact
   path: contact.html
   section_id: contact
