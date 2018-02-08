@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Welcome
-date: 2018-01-01 00:00:00
-images:
-excerpt:
-categories:
+date: {}
+images: null
+excerpt: null
+categories: null
+published: true
 ---
 
 
-![](/https:/www.icpi.ge/uploads/versions/19679105-1362118153844061-4269301735498166812-o---x----1500-1000x---.jpg)
+![19679105_1362118153844061_4269301735498166812_o.jpg]({{site.baseurl}}/_posts/19679105_1362118153844061_4269301735498166812_o.jpg)
 
 New Year, New Beginnings, New Site!
