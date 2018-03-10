@@ -2029,7 +2029,7 @@ form input.error, form textarea.error {
   height: 650px;
   position: relative;
   width: 100%;
-  color: #fff;
+  color: #FFC20D;
 }
 .modDefaultSlider .sequence p {
   font-size: 24px;
