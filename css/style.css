@@ -3925,10 +3925,10 @@ body {
 	.button, .button.boxed, nav, .top-bar-section ul li > a, .info  {font-family: 'HaufeMerriweatherSans', sans-serif;     font-style: normal;
     font-weight: normal;}
 	
-	a, .modBlogPost.big h3 a:hover, .pager a, .modIconText .icon-text-circle:hover i  {color: #005DA5; /*haufe blue*/}
+	a, .modBlogPost.big h3 a:hover, .pager a, .modIconText .icon-text-circle:hover i  {color: #00AE4D; /*haufe blue*/}
 	.top-bar-section ul li > a {color: #33332E /*black*/}
 	.top-bar-section li.active:not(.has-form) a:not(.button) { color: #EB6005; background: none;  }
-	.top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section li.active:not(.has-form) a:not(.button):hover {color: #005DA5; background: none;}
+	.top-bar-section ul li:hover:not(.has-form) > a, .top-bar-section li.active:not(.has-form) a:not(.button):hover {color: #00AE4D; background: none;}
 	
 	a:hover, .pager a:hover {color: #337DB7;}
 	a:active {color: #337DB7;}
