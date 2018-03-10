@@ -7,7 +7,7 @@ url: https://www.icpi.ge
 
 # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
-
+timezone: Asia/Tbilisi
 # Build settings
 markdown: kramdown
 
