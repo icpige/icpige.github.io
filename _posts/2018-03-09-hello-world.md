@@ -3,7 +3,7 @@ layout: post
 title: Hello World!
 date: 2018-03-09 11:14:00
 images:
-excerpt: Ginger Tea
+excerpt:
 categories:
 published: true
 ---
