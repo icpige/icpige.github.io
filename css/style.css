@@ -2029,7 +2029,7 @@ form input.error, form textarea.error {
   height: 650px;
   position: relative;
   width: 100%;
-  color: #FFC20D;
+  color: #fff;
 }
 .modDefaultSlider .sequence p {
   font-size: 24px;
@@ -2514,7 +2514,7 @@ form input.error, form textarea.error {
   padding: 0.8rem;
   /*margin-bottom: 40px;*/
   text-transform: uppercase;
-  background-color: #005DA5;
+  background-color: #00AE4D;
 }
 .modDefaultSlider .sequence .small-title h2 {
   font-size: 1.28571rem;
