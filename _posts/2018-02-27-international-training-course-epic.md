@@ -1,7 +1,7 @@
 ---
 layout: post
 title: International Training Course EPIC
-date: 2018-02-26 12:19:00 +0400
+date: 2018-02-27 12:19:00 +0400
 images:
 excerpt:
 categories:
@@ -11,10 +11,8 @@ published: true
 ![](/uploads/img-7164.JPG)
 {: .Default}
 
-{: .Default}
-
 International Training CourseEPIC (EVS-Planning is Crucial for Quality) wasorganized by non-governmental organizationInternational Educational Center (GEMS) from Czech Republiс and it was cooperated with YCCD which is based in Armenia.
-{: .Default}
+{: .Default.Default}
 
 The aforesaid training was held in Prague between16-24 February, 2018. Project included 8 days of training, sessions, discussions, group activities, workshops, presentations. It involved 19 youth workers from: Czech Republic, Spain, Italy, Moldova, Latvia, Armenia, Portugal, Denmark, Georgia, Ukraine and Estonia.
 {: .Default}
