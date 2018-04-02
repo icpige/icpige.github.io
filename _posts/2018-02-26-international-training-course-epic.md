@@ -1,7 +1,7 @@
 ---
 layout: post
 title: International Training Course EPIC
-date: 2018-01-15 00:19:00 -0800
+date: 2018-02-26 12:19:00 +0400
 images:
 excerpt:
 categories:
@@ -11,7 +11,6 @@ published: true
 ![](/uploads/img-7164.JPG)
 {: .Default}
 
-&nbsp;
 {: .Default}
 
 International Training CourseEPIC (EVS-Planning is Crucial for Quality) wasorganized by non-governmental organizationInternational Educational Center (GEMS) from Czech Republiс and it was cooperated with YCCD which is based in Armenia.
