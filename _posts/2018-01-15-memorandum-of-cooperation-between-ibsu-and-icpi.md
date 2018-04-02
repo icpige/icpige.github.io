@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memorandum of cooperation between IBSU and ICPI
-date: 2018-01-09 12:19:00 +0400
+date: 2018-01-15 12:19:00 +0400
 images:
 excerpt:
 categories:
