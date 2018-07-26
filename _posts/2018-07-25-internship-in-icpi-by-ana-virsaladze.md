@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"About an Internship in ICPI by Ana Virsaladze"'
+title: '"Internship in ICPI, by Ana Virsaladze"'
 date: 2018-07-25 12:19:00 +0400
 images:
 excerpt:
@@ -10,7 +10,7 @@ published: true
 
 ![](/uploads/pic-ana-virsaladze.jpg)
 
-After six months of incredible experience with Ana Virsaladze, intern of ICPI, we want to thank her for this interesting journey and congrats with a successful, exciting and memorable work. Ana joined our team within &nbsp;ICPI and International Black Sea University (IBSU) joint internship program, and succeeded in every way possible. Thanks to IBSU for the meaningful cooperation.
+After six months of incredible experience with Ana Virsaladze, intern of ICPI, we want to thank her for this interesting journey and congrats with a successful, exciting and memorable work. Ana joined our team within  ICPI and International Black Sea University (IBSU) joint internship program, and succeeded in every way possible. Thanks to IBSU for the meaningful cooperation.
 
 Special thanks to Ana for her hard work, dedication and motivation. ICPI team wishes you the best in the next phases of your career.
 
