@@ -10,8 +10,6 @@ published: true
 
 ![](/uploads/36814428-10216678699065864-5735251249767383040-o.jpg)
 
-&nbsp;
-
 International youth exchange “Light and Shadows” which was financed in frames of Erasmus +, took place in Terrassa, Catalonia, Spain from 8th to 14th of July and it brought together 30 youngsters (14 to 17 years old) from Georgia and Catalonia.
 
 Main aim of this project was to debate and develop the concept of intersectionality, understanding that social determinants are multiple and interrelated. The group of youngsters deepened their knowledge about gender and cultural issues as axes of inequality. Besides, youngsters practiced their English language skills, learnt about each other’s culture and traditions.
