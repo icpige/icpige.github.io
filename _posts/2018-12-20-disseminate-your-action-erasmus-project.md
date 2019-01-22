@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “DISSEMINATE YOUR ACTION” ERASMUS+ Project
-date: 2018-12-20 12:19:00 +0400
+date: 2018-12-20 00:00:00 +0400
 images:
 excerpt:
 categories:
