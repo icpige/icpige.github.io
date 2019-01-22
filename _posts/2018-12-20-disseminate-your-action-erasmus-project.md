@@ -16,4 +16,4 @@ We would like to express our gratitude to the guest speakers of the project - &n
 
 The applicant organization for the project was “The Mosta Youth Empowerment Centre (MYEC)” from Malta and hosting organization "International Center for Peace and Integration" - ICPI from Georgia.
 
-Please follow the project’s FB page to become acquainted with the project’s results: https://www.facebook.com/dya.project/ .
+Please follow the project’s FB page to become acquainted with the project’s results: [https://www.facebook.com/dya.project/](https://www.facebook.com/dya.project/){: target="_blank"} .
