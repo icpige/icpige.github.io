@@ -5,8 +5,8 @@
   path: themes.html
   section_id: themes
 - name: Projects
-  path: 
-  section_id: 
+  path:
+  section_id:
   children:
     - name: Erasmus+
       path: erasmus.html
@@ -17,9 +17,9 @@
 - name: Generator 9.8
   path: generator-9-8.html
   section_id: generator
-- name: Voluteering
+- name: Volunteering
   path: volunteering.html
-  section_id: volunteering  
+  section_id: volunteering
 - name: Contact
   path: contact.html
   section_id: contact
