@@ -8,7 +8,7 @@ categories:
 published: false
 ---
 
-![](/uploads/36512451-10205051465602343-6016779243554340864-n.jpg)
+![](/uploads/Wheres_my_balance.jpg)
 
 This Erasmus+ training course “Where is my balance?” took place in a beautiful small village called Chinti, Georgia. From 7-16th of September we brought together 28 participants from8 countries (Armenia , Azerbaijan, Belgium, Netherlands, Romania, Spain, Greece and Georgia)
 
