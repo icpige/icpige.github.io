@@ -5,7 +5,7 @@ date: 2022-17-07 12:19:00 +0400
 images:
 excerpt:
 categories:
-published: true
+published: false
 ---
 
 ![](/uploads/Discover_yourself_outdoors.png)
