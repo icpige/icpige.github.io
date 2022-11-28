@@ -5,7 +5,7 @@ date: 2022-09-07 12:19:00 +0400
 images:
 excerpt:
 categories:
-published: false
+published: true
 ---
 
 ![](/uploads/where_is_my_balance.png)
