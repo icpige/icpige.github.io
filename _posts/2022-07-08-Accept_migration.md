@@ -16,4 +16,4 @@ published: true
 By the end of the project we had explored migration policy of EU and role of civic society in the policy-creation process; Expanded the network of NGOs contributing to the migration management; Raised awareness about legal frame of migration among youth  workers; Promoted the idea of integration of migrants and refugees and peace building in Europe; Shared best practices connected to the management of migration among youth workers; Developed media communication skills among youth workers; Encouraged young people to be actively involved in social life; Motivated youngsters to be active European citizens; Promoted non-formal learning and present it as a tool for participation and development; Promoted intercultural exchange, tolerance and solidarity stimulate future Erasmus+ cooperation
 
 
-[https://www.facebook.com/icpi.ge/posts/5479093795479789][https://www.facebook.com/icpi.ge/posts/5479093795479789]{: target="_blank"} .
+[https://www.facebook.com/icpi.ge/posts/5479093795479789](https://www.facebook.com/icpi.ge/posts/5479093795479789){: target="_blank"} .
