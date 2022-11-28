@@ -17,4 +17,4 @@ The main aim of the project was to promote  healthy lifestyle through outdoor le
 
 During the project  Guest speakers from various organizations were invited, who provided sessions about different topics. Guest speakers from მოლაშქრეთა ეროვნული ფედერაცია / National Hiking Federation introduced to the participants the trail marking standard in Georgia, after the session participants had a chance to go into the mountains and mark the lake Shoda trail.
 
-lease follow the project’s FB page to become acquainted with the project’s results: [https://www.facebook.com/icpi.ge/posts/5408535775868925](https://www.facebook.com/icpi.ge/posts/5408535775868925){: target="_blank"}
+Please follow the project’s FB page to become acquainted with the project’s results: [https://www.facebook.com/icpi.ge/posts/5408535775868925](https://www.facebook.com/icpi.ge/posts/5408535775868925){: target="_blank"}
