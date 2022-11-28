@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Accept Migration" Erasmus+ Project'
+title: "Accept Migration" Erasmus+ Project
 date: 2022-07-08 12:19:00 +0400
 images:
 excerpt:
