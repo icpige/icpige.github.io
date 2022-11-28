@@ -5,7 +5,7 @@ date: 2022-07-08 12:19:00 +0400
 images:
 excerpt:
 categories:
-published: true
+published: false
 ---
 
 ![](/uploads/Accept_migration.png)
