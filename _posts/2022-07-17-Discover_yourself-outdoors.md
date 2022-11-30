@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"Discover Yourself Outdoors" Erasmus+ Project'
-date: 2022-17-07 12:19:00 +0400
+date: 2022-07-17 12:19:00 +0400
 images:
 excerpt:
 categories:
