@@ -5,7 +5,7 @@ date: 2019-07-03 12:19:00 +0400
 images:
 excerpt:
 categories:
-published: false
+published: true
 ---
 
 ![](/uploads/Healthy_body_healthy_mind.png)
