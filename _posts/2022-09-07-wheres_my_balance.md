@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '“Where's my balance?” Erasmus+ project'
+title: “Where's my balance?” Erasmus+ project
 date: 2022-09-07 12:19:00 +0400
 images:
 excerpt:
