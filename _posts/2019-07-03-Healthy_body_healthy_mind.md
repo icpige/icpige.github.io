@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '“Healthy Body for a Healthy Mind” Erasmus+ project'
+title: “Healthy Body for a Healthy Mind” Erasmus+ project
 date: 2019-07-03 12:19:00 +0400
 images:
 excerpt:
